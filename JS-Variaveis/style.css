@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #a3f0a3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80%;
+  font-family: sans-serif;
+  color:#1d3a1d;
+}
+.container {
+  background-color: #fff;
+  padding: 10px;
+  border: 3px dashed#4a7d4a;
+  border-radius: 10px;
+}
+.item {
+  list-style: none;
+  padding-bottom: 8px;
+  font-size: 16px;
+}
